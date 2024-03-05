@@ -1,0 +1,2 @@
+python AESencrypt.py plaintext1.txt ciphertext.txt
+python AESdecrypt.py ciphertext.txt plaintext2.txt
